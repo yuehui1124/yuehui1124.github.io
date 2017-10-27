@@ -21,4 +21,4 @@ branches:
     - blog
 env:
  global:
-   - GH_REF: git@github.com:yuehui1124/yuehui1124.github.io.git
+   - GH_REF: github.com/yuehui1124/yuehui1124.github.io.git
