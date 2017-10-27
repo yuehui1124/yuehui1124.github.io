@@ -3,22 +3,23 @@
   
     
     <entry>
+      <title><![CDATA[test]]></title>
+      <url>/2017/10/27/test/</url>
+      <content type="html"><![CDATA[<hr>
+<p>testing</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[java第三天]]></title>
       <url>/2017/10/27/java%E7%AC%AC%E4%B8%89%E5%A4%A9/</url>
-      <content type="html"></content>
+      <content type="html"><![CDATA[<hr>
+<p>?? WAHT THE FUCK?<br>测试测试!!!!</p>
+<p>‘’</p>
+]]></content>
       
-        <categories>
-            
-            <category> uncategorized </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> untagged </tag>
-            
-        </tags>
         
     </entry>
     
